@@ -8,3 +8,7 @@ Blockchain social network powered by Ethereum smart contracts
  truffle migrate
 
  truffle test
+ 
+ # UI with React
+ 
+ yarn start
