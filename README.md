@@ -3,8 +3,8 @@ Blockchain social network powered by Ethereum smart contracts
 
 # Commands
 
-## truffle compile
+ truffle compile
 
-## truffle migrate
+ truffle migrate
 
-## truffle test
+ truffle test
