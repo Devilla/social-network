@@ -9,6 +9,6 @@ Blockchain social network powered by Ethereum smart contracts
 
  truffle test
  
- # UI with React
+ # React UI
  
  yarn start
